@@ -11,7 +11,7 @@ Secondary education									                                                  -Y
 Accenture Services (India)(April 2018 – Febriary 2024))
 
 ### Projects:
-Project 1 : (Aug 2018 – June 2020)
+####Project 1 : (Aug 2018 – June 2020)
 Role: Data Engineer Associate 
 Opportunity Tracker- It is a technology growth platform’s system to track and manage solution architect assignments and the solution management and approval process.
 Served as the initial contact person for all SQL support queries.
