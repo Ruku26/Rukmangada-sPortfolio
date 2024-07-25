@@ -1,7 +1,7 @@
 # Data Engineer
 
 # Education:
-Masters in Business Analytics                                                         - Year 2026
+Masters in Business Analytics                                                         -Year 2026
 Executive General Management Program (IIM Calcutta)				                          	-Year 2023
 Bachelor of engineering in Electronics and Electrical Engineering (KIIT University)	 	-Year 2018
 Higher secondary education								                                            -Year 2013
@@ -13,7 +13,8 @@ Accenture Services (India)(April 2018 – Febriary 2024))
 ### Projects:
 
 #### Project 1 : (Aug 2018 – June 2020)
-Role: Data Engineer Associate 
+
+#### Role: Data Engineer Associate 
 Opportunity Tracker- It is a technology growth platform’s system to track and manage solution architect assignments and the solution management and approval process.
 Served as the initial contact person for all SQL support queries.
 Performed updates to the SQL system as assigned by management.
@@ -26,7 +27,8 @@ Worked to resolve App Security Assessment Platform (ASAP) Vulnerabilities. ASAP 
 Other major activities done: Increment and decrement of DB size, OS Migration for all the servers from 2012 to 2016.
 
 #### Project2: (July 2020 – March 2022)
-Role: Application Development Analyst 
+
+#### Role: Application Development Analyst 
 Digital Governance - This is a data warehouse project used to store and represent data as per business requirement using Agile methodology. 
 Developed Advanced SQL queries and stored procedures to generate data reports, dug into database details to ensure appropriate data filters based on business requirements.
 Built extract, transform, load (ETL) process to migrate data from multiple types of data sources (SQL server, Excel, Flat files, SharePoint, mail boxes etc.) to destination database server using SSIS package and Export/Import wizard.
@@ -35,8 +37,9 @@ Created/Maintained stored procedures, SSIS packages, Agent job settings to ensur
 Worked on query optimization and done performance tuning at SQL end.
 
 
-Project3: (April 2022- Till date)
-Role: Application Development Senior Analyst / Packaged App Development Team Lead
+#### Project3: (April 2022- Till date)
+
+#### Role: Application Development Senior Analyst / Packaged App Development Team Lead
 Intelligent insights - This is a data warehouse project used to store and represent data as per business requirement using Agile methodology. 
 
 Worked to migrate huge data codes (Stored procedures/Views etc.) from Microsoft SQL server to Big Query (Google cloud Platform)
