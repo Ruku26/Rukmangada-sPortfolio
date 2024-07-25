@@ -11,7 +11,8 @@ Secondary education									                                                  -Y
 Accenture Services (India)(April 2018 – Febriary 2024))
 
 ### Projects:
-####Project 1 : (Aug 2018 – June 2020)
+
+#### Project 1 : (Aug 2018 – June 2020)
 Role: Data Engineer Associate 
 Opportunity Tracker- It is a technology growth platform’s system to track and manage solution architect assignments and the solution management and approval process.
 Served as the initial contact person for all SQL support queries.
@@ -24,7 +25,7 @@ Resolved Accessibility issues persisting in the application.
 Worked to resolve App Security Assessment Platform (ASAP) Vulnerabilities. ASAP is a Static App Security Testing (SAST) tool that can detect security vulnerabilities in source codes even before deployment.
 Other major activities done: Increment and decrement of DB size, OS Migration for all the servers from 2012 to 2016.
 
-Project2: (July 2020 – March 2022)
+#### Project2: (July 2020 – March 2022)
 Role: Application Development Analyst 
 Digital Governance - This is a data warehouse project used to store and represent data as per business requirement using Agile methodology. 
 Developed Advanced SQL queries and stored procedures to generate data reports, dug into database details to ensure appropriate data filters based on business requirements.
