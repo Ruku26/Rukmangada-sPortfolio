@@ -1,16 +1,16 @@
 # Data Engineer
 
-###Education:
-Masters in Business Analytics        - Year 2026
-Executive General Management Program (IIM Calcutta)					-Year 2023
+# Education:
+Masters in Business Analytics                                                         - Year 2026
+Executive General Management Program (IIM Calcutta)				                          	-Year 2023
 Bachelor of engineering in Electronics and Electrical Engineering (KIIT University)	 	-Year 2018
-Higher secondary education								-Year 2013
-Secondary education									-Year 2011
+Higher secondary education								                                            -Year 2013
+Secondary education									                                                  -Year 2011
 
-###Work Experience:
+### Work Experience:
 Accenture Services (India)(April 2018 – Febriary 2024))
 
-###Projects:
+### Projects:
 Project 1 : (Aug 2018 – June 2020)
 Role: Data Engineer Associate 
 Opportunity Tracker- It is a technology growth platform’s system to track and manage solution architect assignments and the solution management and approval process.
@@ -48,7 +48,7 @@ Led the team during multiple sprints on critical User stories and Bugs for timel
 Worked on performance tuning to optimize the code while managing the team for timely deliverables.
 
 
-###Growth Path:
+### Growth Path:
 April’18 to May'20	            Application Development Associate
 June’20 to Nov'21 	            Application Development Analyst 
 Dec'21 to Nov'23                Application Development Senior Analyst
